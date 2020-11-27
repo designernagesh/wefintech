@@ -1264,11 +1264,17 @@ position: relative;
   .section-title h3 {
     font-size: 30px;
   }
+  img.img-fluid{
+    margin-bottom: 20px;
+  }
+  ul.list-bullet-style1 li, ul.list-bullet-style2 li {    
+    padding-left: 0;
+  }
   .unique_boxes {    
     flex-direction: column;
   }
   .unique_boxes .box1, .unique_boxes .box3, .unique_boxes .box2 {      
-      width: 100%;
+      width: 100%; margin: 20px 0
   }
   .unique_boxes .box2:after {
     position: absolute;
