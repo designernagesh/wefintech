@@ -442,7 +442,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: url("../img/wefintech-banner.jpg") top left;
+  background: url("../img/wefintech-header-banner.jpg") top left;
   background-size: cover;
   position: relative;
 }
@@ -1107,7 +1107,7 @@ position: relative;
 }
 
 /*--------------------------------------------------------------
-# Footer
+# Footer CSS Starts Here
 --------------------------------------------------------------*/
 #footer {  
   padding: 0;
